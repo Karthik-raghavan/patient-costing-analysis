@@ -13,7 +13,7 @@ Delivery Medium : Interaction at the healthcare facility via the desktop
 
 ## *Project Overview:*
 
-This repository contains Excel Data exploring Patient Data. The data includes various information such as Patient Details, Gender, Admission Methods, Discharge Methods, Calendar, HCS Group, Specialities, Resources.
+This repository contains Patient Data in Excel format. The data includes various information such as Patient Details, Gender, Admission Methods, Discharge Methods, Calendar, HCS Group, Specialities, Resources.
 
 ## *Files Included:*
 
