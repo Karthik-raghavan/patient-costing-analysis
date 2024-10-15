@@ -24,7 +24,7 @@ This repository contains Patient Data in Excel format. The data includes various
 
 ## *Instructions:*
 
-Kindly refer the <a href="https://public.tableau.com/views/PatientCostingAnalysis/KPI?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau View</a> for the questions and their appropriate answers.
+Kindly refer the Tableau View for the questions and their appropriate answers.
 
 
 Feel free to reach out if you have any questions or need further assistance!
